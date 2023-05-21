@@ -5925,10 +5925,6 @@
     "modified": "2019-03-23T23:26:26.807Z",
     "contributors": ["coloringa", "alisson-suzigan", "teoli", "thiagoharry"]
   },
-  "Web/HTML/Element/applet": {
-    "modified": "2019-03-23T23:09:08.718Z",
-    "contributors": ["marcosyoshihiro"]
-  },
   "Web/HTML/Element/area": {
     "modified": "2019-03-23T23:15:00.929Z",
     "contributors": ["Gregory", "jgborges", "teoli", "Haroldohc"]
@@ -11812,6 +11808,10 @@
       "eduardodx",
       "AluisioASG"
     ]
+  },
+  "orphaned/Web/HTML/Element/applet": {
+    "modified": "2019-03-23T23:09:08.718Z",
+    "contributors": ["marcosyoshihiro"]
   },
   "orphaned/Web/HTML/Element/command": {
     "modified": "2019-03-23T23:38:57.259Z",

@@ -835,6 +835,7 @@
 /pt-BR/docs/Web/HTML/Controlando_verificacao_ortografica_em_formularios_HTML	/pt-BR/docs/Web/HTML/Global_attributes/spellcheck
 /pt-BR/docs/Web/HTML/Dicas_para_criar_páginas_HTML_de_carregamento_rápido	/pt-BR/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages
 /pt-BR/docs/Web/HTML/Element/Input/data	/pt-BR/docs/Web/HTML/Element/input/date
+/pt-BR/docs/Web/HTML/Element/applet	/pt-BR/docs/orphaned/Web/HTML/Element/applet
 /pt-BR/docs/Web/HTML/Element/content	/pt-BR/docs/Web/HTML/Element/slot
 /pt-BR/docs/Web/HTML/Element/conteúdo	/pt-BR/docs/Web/HTML/Element/slot
 /pt-BR/docs/Web/HTML/Element/figura	/pt-BR/docs/Web/HTML/Element/figure
