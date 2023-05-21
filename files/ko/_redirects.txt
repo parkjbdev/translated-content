@@ -682,6 +682,7 @@
 /ko/docs/Web/HTML/Canvas/Tutorial/변형	/ko/docs/Web/API/Canvas_API/Tutorial/Transformations
 /ko/docs/Web/HTML/Element/Video/canplay_event	/ko/docs/Web/API/HTMLMediaElement/canplay_event
 /ko/docs/Web/HTML/Element/Video/canplaythrough_event	/ko/docs/Web/API/HTMLMediaElement/canplaythrough_event
+/ko/docs/Web/HTML/Element/applet	/ko/docs/orphaned/Web/HTML/Element/applet
 /ko/docs/Web/HTML/Element/content	/ko/docs/Web/HTML/Element/slot
 /ko/docs/Web/HTML/Element/h1	/ko/docs/Web/HTML/Element/Heading_Elements
 /ko/docs/Web/HTML/Element/h2	/ko/docs/Web/HTML/Element/Heading_Elements
