@@ -681,6 +681,7 @@
 /ru/docs/Web/HTML/Canvas	/ru/docs/Web/API/Canvas_API
 /ru/docs/Web/HTML/Canvas/Рисование_графики_с_помощью_Canvas	/ru/docs/Web/API/Canvas_API/Tutorial
 /ru/docs/Web/HTML/Element/Input/datetime	/ru/docs/conflicting/Web/HTML/Element/input/datetime-local
+/ru/docs/Web/HTML/Element/applet	/ru/docs/orphaned/Web/HTML/Element/applet
 /ru/docs/Web/HTML/Element/basefont	/ru/docs/conflicting/Web/CSS/CSS_Fonts_25d4b407d3e5044aeffb97faa9669a95
 /ru/docs/Web/HTML/Element/video/seeking_event	/ru/docs/Web/API/HTMLMediaElement/seeking_event
 /ru/docs/Web/HTML/Element/кнопка	/ru/docs/Web/HTML/Element/button

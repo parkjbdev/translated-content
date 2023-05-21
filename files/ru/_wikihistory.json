@@ -10318,10 +10318,6 @@
       "icokie"
     ]
   },
-  "Web/HTML/Element/applet": {
-    "modified": "2019-03-23T22:06:37.540Z",
-    "contributors": ["mars485"]
-  },
   "Web/HTML/Element/area": {
     "modified": "2020-10-15T22:07:14.955Z",
     "contributors": ["SedovDP", "A-Ostrovny", "AnatoliyVolkov"]
@@ -17803,6 +17799,10 @@
   "orphaned/Web/Guide/Unicode_Bidrectional_Text_Algorithm": {
     "modified": "2020-09-02T08:30:27.156Z",
     "contributors": ["bogpok"]
+  },
+  "orphaned/Web/HTML/Element/applet": {
+    "modified": "2019-03-23T22:06:37.540Z",
+    "contributors": ["mars485"]
   },
   "orphaned/Web/HTML/Element/element": {
     "modified": "2019-03-23T22:16:19.667Z",
