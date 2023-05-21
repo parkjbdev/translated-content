@@ -19773,10 +19773,6 @@
       "laparn"
     ]
   },
-  "Web/HTML/Element/applet": {
-    "modified": "2020-10-15T21:23:12.907Z",
-    "contributors": ["SphinxKnight", "tregagnon"]
-  },
   "Web/HTML/Element/area": {
     "modified": "2020-10-15T21:23:17.179Z",
     "contributors": ["SphinxKnight", "sp00m", "tregagnon"]
@@ -27759,5 +27755,9 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "orphaned/Web/HTML/Element/applet": {
+    "modified": "2020-10-15T21:23:12.907Z",
+    "contributors": ["SphinxKnight", "tregagnon"]
   }
 }

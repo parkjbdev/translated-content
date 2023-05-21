@@ -1855,7 +1855,7 @@
 /fr/docs/HTML/Element/abbr	/fr/docs/Web/HTML/Element/abbr
 /fr/docs/HTML/Element/acronym	/fr/docs/Web/HTML/Element/acronym
 /fr/docs/HTML/Element/address	/fr/docs/Web/HTML/Element/address
-/fr/docs/HTML/Element/applet	/fr/docs/Web/HTML/Element/applet
+/fr/docs/HTML/Element/applet	/fr/docs/orphaned/Web/HTML/Element/applet
 /fr/docs/HTML/Element/area	/fr/docs/Web/HTML/Element/area
 /fr/docs/HTML/Element/article	/fr/docs/Web/HTML/Element/article
 /fr/docs/HTML/Element/aside	/fr/docs/Web/HTML/Element/aside
@@ -4769,6 +4769,7 @@
 /fr/docs/Web/HTML/Element/Video/canplay_event	/fr/docs/Web/API/HTMLMediaElement/canplay_event
 /fr/docs/Web/HTML/Element/Video/emptied_event	/fr/docs/Web/API/HTMLMediaElement/emptied_event
 /fr/docs/Web/HTML/Element/Video/ended_event	/fr/docs/Web/API/HTMLMediaElement/ended_event
+/fr/docs/Web/HTML/Element/applet	/fr/docs/orphaned/Web/HTML/Element/applet
 /fr/docs/Web/HTML/Element/basefont	/fr/docs/Web/CSS/CSS_Fonts
 /fr/docs/Web/HTML/Element/content	/fr/docs/Web/HTML/Element/slot
 /fr/docs/Web/HTML/Element/h1	/fr/docs/Web/HTML/Element/Heading_Elements
