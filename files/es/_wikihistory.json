@@ -8986,10 +8986,6 @@
     "modified": "2019-03-23T23:41:48.972Z",
     "contributors": ["abaracedo", "jigs12", "teoli", "Jorolo"]
   },
-  "Web/HTML/Element/applet": {
-    "modified": "2019-03-23T23:42:26.076Z",
-    "contributors": ["Sebastianz", "teoli", "Jorolo"]
-  },
   "Web/HTML/Element/area": {
     "modified": "2019-03-23T23:41:50.345Z",
     "contributors": ["Sebastianz", "jigs12", "teoli", "Jorolo"]
@@ -15780,6 +15776,10 @@
       "pierre_alfonso",
       "jesanchez"
     ]
+  },
+  "orphaned/Web/HTML/Element/applet": {
+    "modified": "2019-03-23T23:42:26.076Z",
+    "contributors": ["Sebastianz", "teoli", "Jorolo"]
   },
   "orphaned/Web/HTML/Element/command": {
     "modified": "2019-10-05T04:48:52.506Z",
